@@ -58,9 +58,11 @@
                         <constraints>
                             <constraint firstItem="gMj-Pf-Zzv" firstAttribute="top" secondItem="8lq-OS-bSb" secondAttribute="bottom" constant="36" id="4lr-ZR-k41"/>
                             <constraint firstItem="JrB-TI-SKF" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="DGR-Ps-bbR"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="gMj-Pf-Zzv" secondAttribute="trailing" constant="16" id="GSK-2l-SxJ"/>
                             <constraint firstItem="8lq-OS-bSb" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="62" id="QuB-Yx-tOY"/>
                             <constraint firstItem="8lq-OS-bSb" firstAttribute="top" secondItem="JrB-TI-SKF" secondAttribute="bottom" constant="8" id="WL6-4O-nv8"/>
                             <constraint firstItem="gMj-Pf-Zzv" firstAttribute="centerX" secondItem="8lq-OS-bSb" secondAttribute="centerX" id="WfC-Nk-sEO"/>
+                            <constraint firstItem="gMj-Pf-Zzv" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="e97-SB-k7m"/>
                             <constraint firstItem="8lq-OS-bSb" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="ibu-6D-i4X"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="8lq-OS-bSb" secondAttribute="trailing" constant="63" id="kBf-3R-AaF"/>
                             <constraint firstItem="JrB-TI-SKF" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="tuz-x2-OZB"/>
